@@ -1,3 +1,4 @@
+--Count Messages
 SELECT
   SPLIT_PART(user.usr_timezone, '/', 1) AS region,
   SPLIT_PART(user.usr_timezone, '/', 2) AS city,
