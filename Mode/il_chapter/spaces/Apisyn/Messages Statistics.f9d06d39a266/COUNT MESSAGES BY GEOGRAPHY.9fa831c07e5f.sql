@@ -10,3 +10,4 @@ FROM
 GROUP BY
   1,
   2
+  
